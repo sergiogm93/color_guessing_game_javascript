@@ -1,4 +1,4 @@
-# Color Guessin Game JAVASCRIPT
+# Color Guessing Game JAVASCRIPT
 
 There are two files included in this repository. The 'js_color_guessing_game.js' one includes the main javascript code meanwhile 'color_guessing_game.html' includes the code in order to display the game in a browser. 
 
